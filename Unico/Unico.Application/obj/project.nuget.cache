@@ -1,9 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "k4L9XEP7fwV5GfE519vZd3KwVitrJQDuhNMFVy8JylBEODyCqSOoL7nf2fzCpG7oR8DKgBF9IeaAcue7YmpQ5A==",
+  "dgSpecHash": "Tt9TLu+gT2VpEKitIRkI94KTIFCxUoKJfYd2G+GDHTlxA7vv03JH7iDuB6/Pf16KGwAqiV42i+qy4r6Vz0s+pw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Unico\\Unico\\Unico.Application\\Unico.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\claud\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": [
     {
       "code": "NU1803",
