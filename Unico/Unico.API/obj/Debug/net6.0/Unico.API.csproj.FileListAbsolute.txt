@@ -39,7 +39,6 @@ C:\Projetos\Unico\Unico\Unico.API\bin\Debug\net6.0\Unico.Domain.pdb
 C:\Projetos\Unico\Unico\Unico.API\bin\Debug\net6.0\Unico.Infra.IoC.pdb
 C:\Projetos\Unico\Unico\Unico.API\bin\Debug\net6.0\Unico.Infra.Data.pdb
 C:\Projetos\Unico\Unico\Unico.API\bin\Debug\net6.0\AutoMapper.dll
-C:\Projetos\Unico\Unico\Unico.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Projetos\Unico\Unico\Unico.API\bin\Debug\net6.0\ClosedXML.dll
 C:\Projetos\Unico\Unico\Unico.API\bin\Debug\net6.0\Dapper.dll
 C:\Projetos\Unico\Unico\Unico.API\bin\Debug\net6.0\DocumentFormat.OpenXml.dll

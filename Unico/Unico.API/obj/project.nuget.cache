@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "W1cKnv+QJ1bUBIWFrf15NR1CE4geUofy1+6JKL3vk3jWeBy9pHA80+WYuNlzEdXErW1WejYUpSKiIFa8hzhDkg==",
+  "dgSpecHash": "rJ2TWstfiDV5NDKom898TdjV5IKwUWfhl0Qp1mcQnFBNcnnjqOxWPZpG2MGDqbdWxs1cVMlIi/Sios+HaEUxZA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Unico\\Unico\\Unico.API\\Unico.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\claud\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
-    "C:\\Users\\claud\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\claud\\.nuget\\packages\\closedxml\\0.102.3\\closedxml.0.102.3.nupkg.sha512",
     "C:\\Users\\claud\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\claud\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
@@ -141,16 +140,6 @@
       "level": "Warning",
       "warningLevel": 1,
       "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.10.0.190:61775/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    },
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 13.0.1 was resolved.",
-      "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net6.0"
-      ]
     }
   ]
 }

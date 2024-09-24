@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using System.Reflection;
 using Unico.Application.Interfaces;
 using Unico.Application.Mappings;
 using Unico.Application.Services;
@@ -12,11 +13,13 @@ namespace Unico.Infra.IoC
 {
     public static class DependencyInjection
     {
+       
         public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
             ConfigureEntityFrameWork(services);
             services.AddScoped<ITarefaRepository, TarefaRepository>();
-            
+            services.AddAutoMapper(typeof(DomainToDtoMappingProfile));
+
             var myhandlers = AppDomain.CurrentDomain.Load("Unico.Application");
 
             return services;
@@ -39,6 +42,7 @@ namespace Unico.Infra.IoC
         {
             
             services.AddScoped<ITarefaService, TarefaService>();
+            services.AddAutoMapper(typeof(DomainToDtoMappingProfile));
             return services;
         }
     }
