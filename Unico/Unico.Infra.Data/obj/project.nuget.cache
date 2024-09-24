@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "trs77U7kDkVVGnyNLCAc6mEnPNgLovnqq2eB9p4BkfFbzignGobDY3EEHa3mjHvIOys3F0RnyKWi2vuEZWrhRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Unico\\Unico\\Unico.Infra.Data\\Unico.Infra.Data.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.10.0.190:61775/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

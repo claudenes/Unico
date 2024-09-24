@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Unico.Application\Unico.Application.csproj" />
+    <ProjectReference Include="..\Unico.Domain\Unico.Domain.csproj" />
+    <ProjectReference Include="..\Unico.Infra.IoC\Unico.Infra.IoC.csproj" />
+  </ItemGroup>
+
+</Project>

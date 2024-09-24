@@ -1,0 +1,11 @@
+C:\Projetos\Unico\Unico\Unico.Domain\bin\Debug\net6.0\Unico.Domain.deps.json
+C:\Projetos\Unico\Unico\Unico.Domain\bin\Debug\net6.0\Unico.Domain.dll
+C:\Projetos\Unico\Unico\Unico.Domain\bin\Debug\net6.0\Unico.Domain.pdb
+C:\Projetos\Unico\Unico\Unico.Domain\obj\Debug\net6.0\Unico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Unico\Unico\Unico.Domain\obj\Debug\net6.0\Unico.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Unico\Unico\Unico.Domain\obj\Debug\net6.0\Unico.Domain.AssemblyInfo.cs
+C:\Projetos\Unico\Unico\Unico.Domain\obj\Debug\net6.0\Unico.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Unico\Unico\Unico.Domain\obj\Debug\net6.0\Unico.Domain.dll
+C:\Projetos\Unico\Unico\Unico.Domain\obj\Debug\net6.0\refint\Unico.Domain.dll
+C:\Projetos\Unico\Unico\Unico.Domain\obj\Debug\net6.0\Unico.Domain.pdb
+C:\Projetos\Unico\Unico\Unico.Domain\obj\Debug\net6.0\ref\Unico.Domain.dll

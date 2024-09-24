@@ -1,0 +1,17 @@
+C:\Projetos\Unico\Unico\Unico.Infra.Data\bin\Debug\net6.0\Unico.Infra.Data.deps.json
+C:\Projetos\Unico\Unico\Unico.Infra.Data\bin\Debug\net6.0\Unico.Infra.Data.dll
+C:\Projetos\Unico\Unico\Unico.Infra.Data\bin\Debug\net6.0\Unico.Infra.Data.pdb
+C:\Projetos\Unico\Unico\Unico.Infra.Data\bin\Debug\net6.0\Unico.Application.dll
+C:\Projetos\Unico\Unico\Unico.Infra.Data\bin\Debug\net6.0\Unico.Domain.dll
+C:\Projetos\Unico\Unico\Unico.Infra.Data\bin\Debug\net6.0\Unico.Application.pdb
+C:\Projetos\Unico\Unico\Unico.Infra.Data\bin\Debug\net6.0\Unico.Domain.pdb
+C:\Projetos\Unico\Unico\Unico.Infra.Data\obj\Debug\net6.0\Unico.Infra.Data.csproj.AssemblyReference.cache
+C:\Projetos\Unico\Unico\Unico.Infra.Data\obj\Debug\net6.0\Unico.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Unico\Unico\Unico.Infra.Data\obj\Debug\net6.0\Unico.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\Unico\Unico\Unico.Infra.Data\obj\Debug\net6.0\Unico.Infra.Data.AssemblyInfo.cs
+C:\Projetos\Unico\Unico\Unico.Infra.Data\obj\Debug\net6.0\Unico.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\Unico\Unico\Unico.Infra.Data\obj\Debug\net6.0\Unico.Infra.Data.csproj.CopyComplete
+C:\Projetos\Unico\Unico\Unico.Infra.Data\obj\Debug\net6.0\Unico.Infra.Data.dll
+C:\Projetos\Unico\Unico\Unico.Infra.Data\obj\Debug\net6.0\refint\Unico.Infra.Data.dll
+C:\Projetos\Unico\Unico\Unico.Infra.Data\obj\Debug\net6.0\Unico.Infra.Data.pdb
+C:\Projetos\Unico\Unico\Unico.Infra.Data\obj\Debug\net6.0\ref\Unico.Infra.Data.dll

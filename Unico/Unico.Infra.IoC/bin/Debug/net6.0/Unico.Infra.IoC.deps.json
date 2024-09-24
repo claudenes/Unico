@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Unico.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "Unico.Application": "1.0.0",
+          "Unico.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "Unico.Infra.IoC.dll": {}
+        }
+      },
+      "Unico.Application/1.0.0": {
+        "dependencies": {
+          "Unico.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Unico.Application.dll": {}
+        }
+      },
+      "Unico.Domain/1.0.0": {
+        "runtime": {
+          "Unico.Domain.dll": {}
+        }
+      },
+      "Unico.Infra.Data/1.0.0": {
+        "dependencies": {
+          "Unico.Application": "1.0.0",
+          "Unico.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Unico.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unico.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unico.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unico.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unico.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

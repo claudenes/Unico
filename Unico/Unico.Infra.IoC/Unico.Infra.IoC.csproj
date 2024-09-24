@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Unico.Application\Unico.Application.csproj" />
+    <ProjectReference Include="..\Unico.Infra.Data\Unico.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
