@@ -23,3 +23,6 @@ DataVencimento DATETIME NOT NULL,
 Status VARCHAR(10) NOT NULL
 )
 
+Foram feitas os testes unitarios para os metodos selecionados.
+A cobertura está tanto para Controller quanto para a camada Application e Repository
+
